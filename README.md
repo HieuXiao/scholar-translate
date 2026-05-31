@@ -1,4 +1,4 @@
-# SciTranslate
+# Scholar Translate
 
 SciTranslate is an AI-powered translation system designed for scientific papers and academic documents.
 
